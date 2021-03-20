@@ -27,3 +27,8 @@ ZCZC W02 240 L22 Youtube: study security
 ZCZC W02 120 L05 GSGS security
 ZCZC W02 220 L10 Assignment (General)
 ZCZC W02 25 L05 GSGS SHA256
+ZCZC W03 90 L02 ZOOM Class
+ZCZC W03 45 L06 Reading PPT
+ZCZC W03 120 L22 Youtube: study file systems
+ZCZC W03 120 L05 GSGS file systems
+ZCZC W03 200 L10 Assignment (General)
