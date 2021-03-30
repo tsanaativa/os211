@@ -32,3 +32,10 @@ ZCZC W03 45 L06 Reading PPT
 ZCZC W03 120 L22 Youtube: study file systems
 ZCZC W03 120 L05 GSGS file systems
 ZCZC W03 200 L10 Assignment (General)
+ZCZC W04 80 L02 ZOOM Class
+ZCZC W04 40 L06 Reading PPT
+ZCZC W04 120 L05 GSGS memory OS
+ZCZC W04 140 L22 Youtube: study memory management, C
+ZCZC W04 30 L10 Assignment (General)
+ZCZC W04 30 L23 Pop Quiz
+ZCZC W04 30 L10 Assignment (General)
