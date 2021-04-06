@@ -39,3 +39,11 @@ ZCZC W04 140 L22 Youtube: study memory management, C
 ZCZC W04 30 L10 Assignment (General)
 ZCZC W04 30 L23 Pop Quiz
 ZCZC W04 30 L10 Assignment (General)
+ZCZC W05 90 L02 ZOOM Class
+ZCZC W05 20 L23 Pop Quiz
+ZCZC W05 25 L01 Pop Quiz
+ZCZC W05 20 L08 Trying vlsm.org login
+ZCZC W05 30 L06 Reading PPT
+ZCZC W05 100 L05 GSGS Virtual Memory
+ZCZC W05 200 L22 Youtube: study virtual memory
+ZCZC W05 50 L10 Assignment (General)
