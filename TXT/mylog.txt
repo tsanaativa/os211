@@ -47,3 +47,9 @@ ZCZC W05 30 L06 Reading PPT
 ZCZC W05 100 L05 GSGS Virtual Memory
 ZCZC W05 200 L22 Youtube: study virtual memory
 ZCZC W05 50 L10 Assignment (General)
+ZCZC W06 110 L02 ZOOM Class
+ZCZC W06 30 L23 Pop Quiz
+ZCZC W06 40 L06 Reading PPT
+ZCZC W06 120 L05 GSGS concurrency OS
+ZCZC W06 120 L22 Youtube: study concurrency
+ZCZC W06 35 L10 Assignment (General)
