@@ -53,3 +53,9 @@ ZCZC W06 40 L06 Reading PPT
 ZCZC W06 120 L05 GSGS concurrency OS
 ZCZC W06 120 L22 Youtube: study concurrency
 ZCZC W06 35 L10 Assignment (General)
+ZCZC W07 110 L02 ZOOM Class
+ZCZC W07 30 L01 Pop Quiz
+ZCZC W07 50 L06 Reading PPT
+ZCZC W07 120 L05 GSGS synchronization
+ZCZC W07 120 L22 Youtube: study synchronization
+ZCZC W07 35 L10 Assignment (General)
