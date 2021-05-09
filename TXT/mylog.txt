@@ -59,3 +59,9 @@ ZCZC W07 50 L06 Reading PPT
 ZCZC W07 120 L05 GSGS synchronization
 ZCZC W07 120 L22 Youtube: study synchronization
 ZCZC W07 35 L10 Assignment (General)
+ZCZC W08 100 L02 ZOOM Class
+ZCZC W08 30 L01 Pop Quiz
+ZCZC W08 40 L06 Reading PPT
+ZCZC W08 120 L05 GSGS scheduling
+ZCZC W08 100 L22 Youtube: study scheduling
+ZCZC W08 110 L10 Assignment (General)
